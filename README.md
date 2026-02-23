@@ -6,8 +6,9 @@ Benutzer können Praktikanten hinzufügen, bearbeiten, löschen und ihre Daten e
 Das Projekt enthält ein einfaches Dashboard zur Übersicht der Praktikanten.
 
 ## Technologien
-- **Backend:** Laravel 10, PHP  
-- **Datenbank:** MySQL
+- **Backend & Frontend:** Laravel 10 mit Blade Templates  
+- **Datenbank:** MySQL  
+- **API:** REST API, Laravel Sanctum für Authentifizierung
 
 ## Funktionen
 1. **Praktikantenverwaltung**
